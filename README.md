@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá eu sou o Davi 👋
+
+Sou estudante, super interessado em aprender novas tecnologias e disposto a enfrentar desafios todos os dias.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drmf135@gmail.com)
 
 <!--
 **devdavi02/devdavi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
